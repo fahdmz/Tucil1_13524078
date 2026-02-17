@@ -1,0 +1,1 @@
+g++ -std=c++17 -O3 -march=native -flto -ffast-math main.cpp helperfunctions.cpp -o ../bin/queens
